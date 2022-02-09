@@ -1,0 +1,12 @@
+html body{
+    margin:0
+}
+
+.pic{
+    background: url('/asset/Planets.jpg');
+    width: 700px;
+    height: 400px;
+    background-clip: content-box;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
